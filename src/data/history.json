@@ -1,0 +1,27 @@
+[
+    {
+      "role": "MASTER OF COMPUTER APPLICATIONS [MCA]",
+      "organisation": "Hindusthan College of Arts & Science, Coimbatore",
+      "startDate": "July, 2022 ",
+      "endDate": " March 2024",
+       "experiences": ["Percentage - 80%"],
+      "imageSrc": "history/hica.png"
+    },
+    {
+      "role": "B.Sc.,Mathematics",
+      "organisation": "Madurai Kamaraj University - Madurai",
+      "startDate": "July, 2019 ",
+      "endDate": " April 2022",
+      "experiences": ["Percentage - 75%"],
+      "imageSrc": "history/mku.png"
+    },
+    {
+      "role": "Core Knowledge - Web Developer",
+      "organisation": "",
+      "startDate": "",
+      "endDate": " Project Overview",
+      "experiences": ["Student Management System [MERN Stack]", "Weather Web Application","Currency Converter","CRUD Operation","Pizza App Info","Simple Calculator","QR Code Generator"],
+      "imageSrc": "about/aboutImage.png"
+    }
+    
+  ]

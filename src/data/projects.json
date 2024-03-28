@@ -1,0 +1,35 @@
+[
+    {
+      "title": "Student Management System [MERN Stack]",
+      "imageSrc": "projects/project.png",
+      "description": "It is Developed by MERN Stack and Implemented CRUD (Create, Read, Update, Delete)Operation to manage student data efficiently. Utilized React.js for the Frontend interface and Node.js/Express.js to Backend RESTful API. Intergrated MangoDB for data storage.",
+      "skills": ["React", "Express", "Node","MongoDB"],
+      "demo": "https://main--crudopera.netlify.app/",
+      "source": "https://github.com/VASANTHKUMAR-K-K/CRUD-Operation-front-end"
+    },
+    {
+      "title": "Weather Web Application",
+      "imageSrc": "projects/project.png",
+      "description": " Created a dynamic Weather Web Application in React.js, utilizing external APIs for real time weather data retrieval. It display current weather condition, forecasts, and location based weather information and providing accurate and up-to-date weather details.",
+      "skills": ["React.js", "HTML5","CSS3","JavaScript"],
+      "demo": "https://weathercheckstatus.netlify.app/",
+      "source": "https://github.com/VASANTHKUMAR-K-K/Weatber_App"
+    },
+    {
+      "title": "Currency Converter",
+      "imageSrc": "projects/project.png",
+      "description": "I've developed a currency converter project for  allowing users to fetch real-time exchange rates via APIs.I seamlessly retrieve currency data from reliable sources such as Open Exchange Rates.",
+      "skills": ["React.js","HTML5","CSS3","JavaScript"],
+      "demo": "https://flourishing-sunburst-959b8f.netlify.app/",
+      "source": "https://github.com/VASANTHKUMAR-K-K/Currency_Converter"
+    },
+    {
+      "title": "QRCode Generator",
+      "imageSrc": "projects/project.png",
+      "description": " Designed and Implemented a QR Code Generator using JavaScript,HTML and CSS, for enabling dynamic generation of QR Codes for various purposes.",
+      "skills": ["HTML5","CSS3","JavaScript"],
+      "demo": "file:///E:/vasanth%20javascript%20notes/JavaScript%20projects/QRCode/QRcode/qrcode.html#",
+      "source": "https://github.com/VASANTHKUMAR-K-K/QRCode-Generator"
+    }
+
+  ]
